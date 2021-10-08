@@ -6,9 +6,7 @@
    - I have currently started to learn Web Development using MERN
    - Also very interested to learn App Development
    - Greatly eager to learn Ethical hacking
-## <p align="center"> My Github stats</p>
-<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Debashis08&show_icons=true&line_height=20&theme=tokyonight" /></p>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Debashis08&langs_count=5&theme=tokyonight)]()
+
 
    
    
@@ -24,3 +22,7 @@
 <!-- <a href="https://www.facebook.com/profile.php?id=100004941376234"><img style="height: 40px; width: 40px" src="/Images/facebook_logo_icon.png" alt="Facebook_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/debashis_nandi08?r=nametag"><img style="height: 40px; width: 40px" src="/Images/instagram_icon.png" alt="Instagram_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://twitter.com/Debashis_0804?t=RlnpBD3uYgcKGMGMIa6NfQ&s=09"><img style="height: 40px; width: 40px"  src="/Images/twitter_icon.png" alt="Twitter_icon"></a></p>
+
+## <p align="center">My Github stats</p>
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Debashis08&show_icons=true&line_height=20&theme=tokyonight" /></p>
+<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashis08&langs_count=5&theme=tokyonight" /></p>
