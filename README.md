@@ -17,7 +17,7 @@
    
    
 ## <p align="center"> Connect with me </p>
-<p align="center"><a href="mailto:https://debashisnandi576@gmail.com"><img style="height: 40px; width: 40px" src="/Images/gmail_icon.png" alt="Gmail_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"><a href="mailto:debashisnandi576@gmail.com"><img style="height: 40px; width: 40px" src="/Images/gmail_icon.png" alt="Gmail_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/debashis-nandi-219a62195"><img style="height: 40px; width: 40px"  src="/Images/linkedin_icon.png" alt="Linkedin_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Debashis08"><img style="height: 40px; width: 40px"  src="/Images/github_icon.png" alt="Github_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100004941376234"><img style="height: 40px; width: 40px" src="/Images/facebook_logo_icon.png" alt="Facebook_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
