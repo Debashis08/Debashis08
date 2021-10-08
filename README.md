@@ -9,7 +9,7 @@
  
 ## <p align="center">My Github stats</p>
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Debashis08&show_icons=true&line_height=20&theme=tokyonight" /></p>
-<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashis08&langs_count=5&theme=tokyonight" /></p>
+<p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashis08&langs_count=5&theme=tokyonight" /></p>
 
 
    
