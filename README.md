@@ -1,7 +1,7 @@
-   # <p align="center"> 👋 Hi, I am Debashis Nandi</p>
-   ## <p align="center"> About me</p>
+   ### <p align="center"> 👋 Hi, I am Debashis Nandi</p>
+   ### <p align="center"> About me</p>
    I am an Engineering Undergrad student of Jadavpur University, passionate about Competitive Coding and want to explore the field of software development as well. Looking forward to participate in Global Competitive Coding events.
-   ## <p align="center"> Currently working on</p>
+   ### <p align="center"> Currently working on</p>
    - I am learning and practicing DSA
    - I have currently started to learn Web Development using MERN
    - Also very interested to learn App Development
@@ -19,7 +19,7 @@
    
    
    
-## <p align="center"> Connect with me </p>
+### <p align="center"> Connect with me </p>
 <p align="center"><a href="mailto:debashisnandi576@gmail.com"><img style="height: 40px; width: 40px" src="/Images/gmail_icon.png" alt="Gmail_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/debashis-nandi-219a62195"><img style="height: 40px; width: 40px"  src="/Images/linkedin_icon.png" alt="Linkedin_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Debashis08"><img style="height: 40px; width: 40px"  src="/Images/github_icon.png" alt="Github_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
