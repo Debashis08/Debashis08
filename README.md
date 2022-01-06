@@ -1,6 +1,6 @@
    ### <p align="center"> 👋 Hi, I am Debashis Nandi</p>
    ### <p align="center"> About me</p>
-   I am an Engineering Undergrad student of Jadavpur University, passionate about Competitive Coding and want to explore the field of software development as well. Looking forward to participate in Global Competitive Coding events.
+   I am an Engineering Undergrad student of Jadavpur University, passionate about Coding and want to explore the field of software development.
    ### <p align="center"> Currently working on</p>
    - I am learning and practicing DSA
    - I have currently started to learn Web Development using MERN
