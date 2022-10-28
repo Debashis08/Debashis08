@@ -26,4 +26,8 @@
 <!-- <a href="https://www.facebook.com/profile.php?id=100004941376234"><img style="height: 40px; width: 40px" src="/Images/facebook_logo_icon.png" alt="Facebook_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/debashis_nandi08?r=nametag"><img style="height: 40px; width: 40px" src="/Images/instagram_icon.png" alt="Instagram_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://twitter.com/Debashis_0804?t=RlnpBD3uYgcKGMGMIa6NfQ&s=09"><img style="height: 40px; width: 40px"  src="/Images/twitter.svg" alt="Twitter_icon"></a></p>
+&nbsp;
 
+### My Badges
+
+[![@debashis_08's Holopin board](https://holopin.me/debashis_08)](https://holopin.io/@debashis_08)
