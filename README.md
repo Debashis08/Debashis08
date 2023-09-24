@@ -1,11 +1,10 @@
    ### <p align="center"> 👋 Hi, I am Debashis Nandi</p>
    ### <p align="center"> About me</p>
-   I am an Engineering Undergrad student of Jadavpur University, passionate about Coding and want to explore the field of software development.
+   I am a Systems Engineer at Tata Consultancy Services. Graduated from Bachelor of Engineering, Jadavpur University in 2023.
    ### <p align="center"> Currently working on</p>
    - I am learning and practicing DSA
-   - I have currently started to learn Web Development using MERN
-   - Also very interested to learn App Development
-   - Greatly eager to learn Ethical hacking
+<!--   - I have currently started to learn Web Development using ASP.NET and Deep Learning -->
+   - Interested to learn and work on .NET MAUI
  
 <!-- ## <p align="center">My Github stats</p>
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Debashis08&show_icons=true&line_height=20&theme=tokyonight" /></p>
