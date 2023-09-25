@@ -1,7 +1,8 @@
-   ### <p align="center"> 👋 Hi, I am Debashis Nandi</p>
-   ### <p align="center"> About me</p>
+   ## <p align="center"> 👋 Hi, I am Debashis Nandi </p>
+   ### <p align="center"> About me </p>
    I am a Systems Engineer at Tata Consultancy Services. Graduated from Bachelor of Engineering, Jadavpur University in 2023.
-   ### <p align="center"> Currently working on</p>
+   <br>
+   ### <p align="center"> Currently working on </p>
    - I am learning and practicing DSA
 <!--   - I have currently started to learn Web Development using ASP.NET and Deep Learning -->
    - Interested to learn and work on .NET MAUI
@@ -17,7 +18,8 @@
    
    
    
-   
+<br>
+
 ### <p align="center"> Connect with me </p>
 <p align="center"><a href="mailto:debashisnandi576@gmail.com"><img style="height: 40px; width: 40px" src="/Images/gmail.svg" alt="Gmail_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/debashis-nandi-219a62195"><img style="height: 40px; width: 40px"  src="/Images/linkedin.svg" alt="Linkedin_icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
