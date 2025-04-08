@@ -7,8 +7,9 @@
    <br>
    
    ### Currently working on
-   - I am learning and practicing DSA
-   - Interested to learn and work on .NET MAUI
+   - Learning and practicing DSA
+   - Currently working on react-redux .NET Core
+   - Interested to learn and work on C++ QT
    - Interested to contribute on more Deep Learning Research works
 <br>
 
